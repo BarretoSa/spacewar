@@ -7,4 +7,4 @@
 * Ambas as naves devem iniciar com a luz branca da paz (LBP) acesas.
 * Se piscar a LBP três vezes, é fim de batalha, com vitória para o adversário.
 * O ataque com ondas giratórias vale 4 pontos
-
+* Não é permitido fazer teletransporte em dobra.
